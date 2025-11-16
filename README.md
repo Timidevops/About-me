@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Timidevops
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops engineering
-- 💞️ I’m looking to collaborate on projects to build myself up
-- 📫 How to reach me timidevops@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been a UI/UX designer and Front end developer for some years
+# 🚀 Building scalable systems, automating everything, and loving every moment of it.
+
+Hi! I’m Peace Akintayo, a DevOps Engineer with 3+ years of experience designing, automating, and deploying production-grade infrastructure. I started my tech journey in UI/UX design, transitioned into front-end development, and then found my true passion in DevOps & Cloud Engineering.
+
+I’m passionate about collaboration, automating workflows, and exploring new AI tools that help teams deliver faster and smarter. When I’m not debugging pipelines or deploying clusters, you’ll find me interacting with cutting-edge AI platforms or gaming 🎮.
 
 <!---
 Timidevops/Timidevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
